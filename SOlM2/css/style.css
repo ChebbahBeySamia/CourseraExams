@@ -99,20 +99,20 @@ p{
 
 
 }
-@media (min-width: 260px) and (max-width: 767px) 
+@media (min-width: 200px) and (max-width: 767px) 
 {
 	#section1{
-	 	margin-left: 10px;
+	 	margin-left: 5px;
 	 	width: 98%;
 
 	 } 
 	#section2{
-		margin-left: 10px;
+		margin-left: 5px;
 	 	width: 98%;
 	 	margin-top: 20px
 	 } 
 	#section3{ 
-	 	margin-left: 10px;
+	 	margin-left: 5px;
 	 	width: 98%;
 	 	margin-top: 20px;
 
